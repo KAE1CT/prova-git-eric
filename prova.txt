@@ -7,5 +7,9 @@ CORREÇÃO BUG ERIC
 
 Alteração4
 Alteração5
+<<<<<<< HEAD
 Alteração6
 Correção Bug João
+=======
+Alteração6
+>>>>>>> 724d5e3 (Etapa6)
